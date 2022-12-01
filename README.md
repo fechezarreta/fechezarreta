@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Flor
 - 👀 I’m interested in IT Job preparation
-- 🌱 I’m currently learning Data Studio and power bi
+- 🌱 I’m currently learning Gamification
+- 🤓 I have some knowledge of Data Studio and Power BI.
 - 💞️ I’m looking to collaborate with Henry's students to achieve their Boom! 💥
 - 📫 You can reach me at: fechezarreta@soyhenry.com
 
